@@ -1,4 +1,4 @@
-# 🏡 Data-Driven Real Estate Valuation: Advanced Predictive Modeling Techniques
+# 🏡 Data-Driven Real Estate Validation: Advanced Predictive Modeling Techniques
 
 A Machine Learning project focused on predicting residential property prices using advanced regression and ensemble learning algorithms. The project applies feature engineering, preprocessing, and model optimization techniques to build accurate and reliable real estate valuation models.
 
@@ -6,7 +6,7 @@ A Machine Learning project focused on predicting residential property prices usi
 
 ## 📌 Project Overview
 
-Accurate property valuation is essential for buyers, sellers, investors, and real estate professionals. This project leverages Machine Learning algorithms to estimate house prices based on various property characteristics.
+Accurate property validation is essential for buyers, sellers, investors, and real estate professionals. This project leverages Machine Learning algorithms to estimate house prices based on various property characteristics.
 
 The project compares multiple regression models and ensemble learning techniques to identify the best-performing approach for real estate price prediction.
 
